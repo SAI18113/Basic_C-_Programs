@@ -1,0 +1,7 @@
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\PrimeNumber\obj\Debug\PrimeNumber.pdb

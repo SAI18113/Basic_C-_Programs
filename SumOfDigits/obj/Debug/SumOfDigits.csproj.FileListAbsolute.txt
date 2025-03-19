@@ -1,0 +1,7 @@
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\obj\Debug\SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\obj\Debug\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigits\obj\Debug\SumOfDigits.pdb

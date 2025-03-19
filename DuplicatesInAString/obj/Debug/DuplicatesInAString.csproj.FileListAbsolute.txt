@@ -1,0 +1,7 @@
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\bin\Debug\DuplicatesInAString.exe.config
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\bin\Debug\DuplicatesInAString.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\bin\Debug\DuplicatesInAString.pdb
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\obj\Debug\DuplicatesInAString.csproj.AssemblyReference.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\obj\Debug\DuplicatesInAString.csproj.CoreCompileInputs.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\obj\Debug\DuplicatesInAString.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\DuplicatesInAString\obj\Debug\DuplicatesInAString.pdb

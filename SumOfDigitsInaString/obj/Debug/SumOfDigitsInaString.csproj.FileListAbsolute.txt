@@ -1,0 +1,7 @@
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\bin\Debug\SumOfDigitsInaString.exe.config
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\bin\Debug\SumOfDigitsInaString.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\bin\Debug\SumOfDigitsInaString.pdb
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\obj\Debug\SumOfDigitsInaString.csproj.AssemblyReference.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\obj\Debug\SumOfDigitsInaString.csproj.CoreCompileInputs.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\obj\Debug\SumOfDigitsInaString.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SumOfDigitsInaString\obj\Debug\SumOfDigitsInaString.pdb

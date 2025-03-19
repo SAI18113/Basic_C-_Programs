@@ -1,0 +1,7 @@
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\bin\Debug\SingleTonPattern.exe.config
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\bin\Debug\SingleTonPattern.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\bin\Debug\SingleTonPattern.pdb
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\obj\Debug\SingleTonPattern.csproj.AssemblyReference.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\obj\Debug\SingleTonPattern.csproj.CoreCompileInputs.cache
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\obj\Debug\SingleTonPattern.exe
+C:\Users\stirumalanadi\source\repos\FibonacciSeries\SingleTonPattern\obj\Debug\SingleTonPattern.pdb
