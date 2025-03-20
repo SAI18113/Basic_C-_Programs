@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BasicC#Programs
+/Abstraction/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ASCIINumbers/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/DecoratorPattern/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/DuplicatesInAString/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Encapsulation/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/FacadePattern/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/FibonacciSeries/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Inheritance/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MethodOverLoading/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/MethodOverriding/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/ObserverPattern/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/PalindromeNumber/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/PalindromeString/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Polymorphism/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/PrimeNumber/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/RemoveDuplicatesInAString/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SingleTonPattern/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/StrategyPattern/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SumOfDigits/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SumOfDigitsInaString/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SWAPTwoNumbers/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
